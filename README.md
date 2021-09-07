@@ -1,3 +1,3 @@
-# Compendium-Group-Inc-Website
+# Personal website 
 
-- This is a website I made for my former employer
+
