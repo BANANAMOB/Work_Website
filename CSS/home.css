@@ -13,7 +13,8 @@ body {
 	font-size: 22;
 	color: white;
 	padding: 300px;
-	background-size: auto; 
+	background-size: cover;
+	overflow:auto;
 	margin: 0px;
 }
 
