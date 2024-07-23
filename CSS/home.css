@@ -17,10 +17,10 @@ body {
 	margin: 0px;
 	height: 100vh;
 }
-
+/*
 #typewriter {
-  display: inline-block; /* Ensure the container fits the content */
-}
+  display: inline-block;  Ensure the container fits the content 
+} */
 
 #typewriter h2,
 #typewriter h3 {
