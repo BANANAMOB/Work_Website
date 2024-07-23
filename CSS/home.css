@@ -8,7 +8,7 @@ body {
 .blurb {
     background-image:
     linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 1)),
-    url('images-assets.nasa.gov/image/GSFC_20171208_Archive_e000117/GSFC_20171208_Archive_e000117~orig.jpg');
+    url('https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e000117/GSFC_20171208_Archive_e000117~orig.jpg');
 	font-family: monospace;
 	font-size: 22;
 	color: white;
